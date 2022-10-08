@@ -3,5 +3,7 @@ warszawa
 krakow
 gdansk
 opoczno
-opoczno
 tomaszow
+piotrkow
+
+kielce
