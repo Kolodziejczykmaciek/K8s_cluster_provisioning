@@ -3,3 +3,5 @@ warszawa
 krakow
 gdansk
 opoczno
+opoczno
+tomaszow
