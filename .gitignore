@@ -1,1 +1,7 @@
 cert.pem
+# Project exclude paths
+/.gradle/
+/.idea/
+/build/
+/out/
+/out/production/classes/
